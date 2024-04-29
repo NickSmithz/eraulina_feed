@@ -23,7 +23,7 @@
       <offer id="923950">
         <name>Елизавета Ераулина</name>
         <url>https://eraulinaphoto.ru/price</url>
-        <price from="true">5000/price>
+        <price from="true">5000</price>
         <currencyId>RUR</currencyId>
         <categoryId>23</categoryId>
         <set-ids>s1</set-ids>
